@@ -1,7 +1,7 @@
 # Sử dụng image php:8.0-fpm-alpine
 FROM php:8.0-fpm-alpine
 
-LABEL maintainer="DucLS &lt;<a class="__cf_email__" href="/cdn-cgi/l/email-protection">[email protected]</a>&gt;"
+LABEL maintainer="phu123"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
